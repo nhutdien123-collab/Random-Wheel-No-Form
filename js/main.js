@@ -6,7 +6,7 @@ var prizes = [
     { text: "Quạt ITC", img: "images/quat.png", percentpage: 0.00 },
     { text: "Chúc bạn may mắn lần sau", img: "images/hengaplai.png", percentpage: 0.45 },
     { text: "Gấu bông", img: "images/gaubong.png", percentpage: 0.00 },
-    { text: "Check in nhận quà", img: "images/gift_Y.png", percentpage: 0.10 },
+    { text: "Check in nhận quà", img: "images/check in.png", percentpage: 0.10 },
     { text: "Balo ITC", img: "images/balo.png", percentpage: 0.00 },
 ];
 
