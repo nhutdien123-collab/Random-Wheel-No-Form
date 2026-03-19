@@ -1,13 +1,14 @@
 // 1. Cấu hình danh sách quà tặng
 var prizes = [
-    { text: "Chúc bạn may mắn lần sau", img: "images/hengaplai.png", percentpage: 0.45 },
-    { text: "Bút bi ITC", img: "images/ButbiITC.png", percentpage: 0.00 },
-    { text: "Bình nước", img: "images/binh.png", percentpage: 0.00 },
-    { text: "Quạt ITC", img: "images/quat.png", percentpage: 0.00 },
-    { text: "Chúc bạn may mắn lần sau", img: "images/hengaplai.png", percentpage: 0.45 },
-    { text: "Gấu bông", img: "images/gaubong.png", percentpage: 0.00 },
-    { text: "Check in nhận quà", img: "images/check in.png", percentpage: 0.10 },
-    { text: "Balo ITC", img: "images/balo.png", percentpage: 0.00 },
+    { text: "Chúc bạn may mắn lần sau", img: "images/hengaplai.png", percentpage: 0.25 },
+    { text: "Bút bi ITC", img: "images/ButbiITC.png", percentpage: 0.20 },
+    { text: "Bình nước", img: "images/binh.png", percentpage: 0.10 },
+    { text: "Quạt ITC", img: "images/quat.png", percentpage: 0.15 },
+    { text: "Chúc bạn may mắn lần sau", img: "images/hengaplai.png", percentpage: 0.25 },
+    { text: "Túi vải", img: "images/hengaplai.png", percentpage: 0.60 },
+    { text: "Gấu bông", img: "images/gaubong.png", percentpage: 0.20 },
+    { text: "Check in nhận quà", img: "images/check in.png", percentpage: 0.30 },
+    { text: "Balo ITC", img: "images/balo.png", percentpage: 0.20 },
 ];
 
 // 2. Hàm tính toán tỉ lệ trúng giải
