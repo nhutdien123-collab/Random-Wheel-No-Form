@@ -1,15 +1,15 @@
 // 1. Cấu hình danh sách quà tặng
 var prizes = [
-    { text: "Chúc bạn may mắn lần sau", img: "images/maymanlansau01.png", percentpage: 0.25 },
+    { text: "Chúc bạn may mắn lần sau", img: "images/maymanlansau01.png", percentpage: 0.3 },
     { text: "Bút bi ITC", img: "images/ButbiITC.png", percentpage: 0.20 },
     { text: "Bình nước", img: "images/binhnuoc01.png", percentpage: 0.01 },
     { text: "Quạt ITC", img: "images/quat.png", percentpage: 0.15 },
-    { text: "Chúc bạn may mắn lần sau", img: "images/maymanlansau01.png", percentpage: 0.25 },
-    { text: "Túi vải", img: "images/tuivai01.png", percentpage: 0.03 },
-    { text: "Gấu bông", img: "images/gaubong03.png", percentpage: 0.02 },
+    { text: "Chúc bạn may mắn lần sau", img: "images/maymanlansau01.png", percentpage: 0.3 },
+    { text: "Túi vải", img: "images/tuivai01.png", percentpage: 0.02 },
+    { text: "Gấu bông", img: "images/gaubong03.png", percentpage: 0.015 },
     { text: "Check in nhận quà", img: "images/gift_Y.png", percentpage: 0.03 },
-    { text: "Balo ITC", img: "images/balo.png", percentpage: 0.02 },
-    { text: "Túi vải", img: "images/tuivai01.png", percentpage: 0.03 },
+    { text: "Balo ITC", img: "images/balo.png", percentpage: 0.015 },
+    { text: "Túi vải", img: "images/tuivai01.png", percentpage: 0.02 },
 ];
 
 // 2. Hàm tính toán tỉ lệ trúng giải
