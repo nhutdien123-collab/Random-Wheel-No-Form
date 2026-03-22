@@ -3,7 +3,7 @@ var prizes = [
     { text: "Chúc bạn may mắn lần sau", img: "images/maymanlansau01.png", percentpage: 0.45 },
     { text: "Bút bi ITC", img: "images/ButbiITC.png", percentpage: 0.09 },
     { text: "Bình nước", img: "images/binhnuoc01.png", percentpage: 0.00 },
-    { text: "Quạt ITC", img: "images/quat.png", percentpage: 0.04 },
+    { text: "Quạt ITC", img: "images/quat.png", percentpage: 0.03 },
     { text: "Chúc bạn may mắn lần sau", img: "images/maymanlansau01.png", percentpage: 0.39 },
     { text: "Túi vải", img: "images/tuivai01.png", percentpage: 0.01 },
     { text: "Gấu bông", img: "images/gaubong03.png", percentpage: 0.00 },
